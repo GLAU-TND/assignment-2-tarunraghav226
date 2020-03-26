@@ -26,6 +26,7 @@ public class MyMain {
             bst.insert(node);
         }
 
-        bst.showLeft(bst.getRoot(), false);
+        bst.showTreeData(bst.getRoot());
+        System.out.println(bst.showLeft(bst.getRoot(), false));
     }
 }

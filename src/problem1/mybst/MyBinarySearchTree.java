@@ -28,7 +28,7 @@ public class MyBinarySearchTree {
             return;
         }
 
-        TreeNode parent;
+        TreeNode parent = null;
         TreeNode current = getRoot();
         boolean isLeft = true;
 
@@ -41,12 +41,11 @@ public class MyBinarySearchTree {
                 current = current.getLeftNode();
                 isLeft = true;
             }
-
+        }
             if (isLeft)
                 parent.setLeftNode(newNode);
             else
                 parent.setRightNode(newNode);
-        }
     }
 
     public int showLeft(TreeNode node, boolean isLeft) {
