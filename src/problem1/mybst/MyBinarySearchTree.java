@@ -48,4 +48,21 @@ public class MyBinarySearchTree {
                 parent.setRightNode(newNode);
         }
     }
+
+    public int showLeft(TreeNode node, boolean isLeft) {
+        int c = 0;
+
+        if (node == null)
+            return c;
+
+        if (isLeft)
+            System.out.println(node);
+
+        if (node.getLeftNode() == null)
+            c++;
+
+        c += showLeft(node.getLeftNode(), true);
+        c += showLeft(node.getRightNode(), false);
+        return c;
+    }
 }

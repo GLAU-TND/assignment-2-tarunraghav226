@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ac21c4b-36ae-41d6-b6e8-15cd28055a05" name="Default Changelist" comment="">
+    <list default="true" id="1ac21c4b-36ae-41d6-b6e8-15cd28055a05" name="Default Changelist" comment="Added algorithm to show left node and coun">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem1/mybst/MyBinarySearchTree.java" afterDir="false" />
     </list>
@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585232723631</updated>
-      <workItem from="1585232730191" duration="281000" />
+      <workItem from="1585232730191" duration="549000" />
     </task>
     <task id="LOCAL-00001" summary="Completed defintion of TreeNode class.">
       <created>1585232828858</created>
@@ -56,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585232828859</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added insertion method in MyBinarySearchTree class.">
+      <created>1585233031390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585233031390</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,7 +71,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Completed defintion of TreeNode class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed defintion of TreeNode class." />
+    <MESSAGE value="Added insertion method in MyBinarySearchTree class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added insertion method in MyBinarySearchTree class." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -74,10 +82,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1585232852060" />
-    <state x="284" y="46" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585232828573">
+    <state x="284" y="46" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585233211233">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="284" y="46" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585232828573" />
+    <state x="284" y="46" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585233211233" />
     <state x="456" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1585232729615">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
