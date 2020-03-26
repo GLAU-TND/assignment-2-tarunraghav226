@@ -142,10 +142,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1585232852060" />
-    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585234355343">
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585234751975">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585234355343" />
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585234751975" />
     <state width="1554" height="489" key="GridCell.Tab.0.bottom" timestamp="1585234671492">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -166,6 +166,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="458" y="175" width="674" height="557" key="RollbackChangesDialog/0.0.1600.900@0.0.1600.900" timestamp="1585234274126" />
+    <state x="395" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585234759509">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="395" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1585234759509" />
     <state x="456" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1585232729615">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
