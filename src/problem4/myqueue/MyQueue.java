@@ -43,7 +43,6 @@ public class MyQueue {
     public Node deQueue() {
         Node temp;
         if (getFront() == null) {
-            System.out.println("No elements");
             return null;
         } else if (getFront().getNext() == null) {
             temp = getFront();
