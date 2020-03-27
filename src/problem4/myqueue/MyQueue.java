@@ -36,6 +36,18 @@ public class MyQueue {
             setRear(newNode);
         } else {
             getRear().setNext(newNode);
+            setRear(getRear().getNext());
+        }
+    }
+
+    public Node deQueue() {
+        if (getFront() == null) {
+            System.out.println("No elements");
+            return null;
+        } else {
+            Node temp = getFront();
+            setFront(getFront().getNext());
+            return temp;
         }
     }
 }
