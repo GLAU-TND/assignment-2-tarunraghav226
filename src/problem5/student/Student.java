@@ -9,6 +9,15 @@ package problem5.student;
 public class Student {
     private String name;
     private int rollNumber;
+    private int backLogCounter;
+
+    public int getBackLogCounter() {
+        return backLogCounter;
+    }
+
+    public void setBackLogCounter(int backLogCounter) {
+        this.backLogCounter = backLogCounter;
+    }
 
     public String getName() {
         return name;
@@ -31,6 +40,7 @@ public class Student {
         return "---------------------------------------" + "\n" +
                 "Name -- " + getName() + "\n" +
                 "Roll Number -- " + getRollNumber() + "\n" +
+                "Back Log Value -- " + getBackLogCounter() + "\n" +
                 "---------------------------------------";
     }
 }
