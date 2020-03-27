@@ -96,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585232723631</updated>
       <workItem from="1585232730191" duration="4436000" />
-      <workItem from="1585299030230" duration="3045000" />
+      <workItem from="1585299030230" duration="3341000" />
     </task>
     <task id="LOCAL-00001" summary="Completed defintion of TreeNode class.">
       <created>1585232828858</created>
@@ -189,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585306589491</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added enQueue method in MyPriorityQueue class.">
+      <created>1585307840245</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585307840245</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,7 +214,8 @@
     <MESSAGE value="Completed Student class." />
     <MESSAGE value="Removed problem3 Student class and completed problem5 Student class." />
     <MESSAGE value="Completed Node class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Node class." />
+    <MESSAGE value="Added enQueue method in MyPriorityQueue class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added enQueue method in MyPriorityQueue class." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -221,10 +229,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1585307161429" />
-    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585306589234">
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585307840107">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585306589234" />
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585307840107" />
     <state width="1554" height="133" key="GridCell.Tab.0.bottom" timestamp="1585240160476">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
