@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ac21c4b-36ae-41d6-b6e8-15cd28055a05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-tarunraghav226/problem4/main/MyMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-tarunraghav226/problem4/main/MyMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-tarunraghav226/problem4/myqueue/MyQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-tarunraghav226/problem4/myqueue/MyQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/assignment-2-tarunraghav226/problem5/student/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/assignment-2-tarunraghav226/problem5/student/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/circularqueue/MyCircularQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem5/main/MyMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem5/main/MyMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZfahjPwinLFAWf5MPhG5hN09Zy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DataStructures" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager" selected="Application.MyMain (4)">
+    <configuration name="MyMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem2.main.MyMain" />
+      <module name="assignment-2-tarunraghav226" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem2.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem3.main.MyMain" />
+      <module name="assignment-2-tarunraghav226" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem3.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem4.main.MyMain" />
+      <module name="assignment-2-tarunraghav226" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem4.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem5.main.MyMain" />
+      <module name="assignment-2-tarunraghav226" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem5.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem1.main.MyMain" />
+      <module name="assignment-2-tarunraghav226" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem1.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MyMain (4)" />
+        <item itemvalue="Application.MyMain (3)" />
+        <item itemvalue="Application.MyMain (2)" />
+        <item itemvalue="Application.MyMain (1)" />
+        <item itemvalue="Application.MyMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ac21c4b-36ae-41d6-b6e8-15cd28055a05" name="Default Changelist" comment="" />
+      <created>1585232723631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585232723631</updated>
+      <workItem from="1585232730191" duration="4436000" />
+      <workItem from="1585299030230" duration="15941000" />
+    </task>
+    <task id="LOCAL-00001" summary="Completed defintion of TreeNode class.">
+      <created>1585232828858</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585232828859</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added insertion method in MyBinarySearchTree class.">
+      <created>1585233031390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585233031390</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added algorithm to show left node and count node with no left node.">
+      <created>1585233291861</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585233291861</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added toString in TreeNode class.">
+      <created>1585233833723</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585233833723</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added show method in MyBinarySearchTree class.">
+      <created>1585234237108</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585234237108</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added show method in MyBinarySearchTree class.">
+      <created>1585234355454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585234355454</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Completed problem1.">
+      <created>1585234752145</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585234752145</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completed problem1.">
+      <created>1585234819400</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585234819400</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added post order traversal method in MyBinarySearchTree class.">
+      <created>1585237948505</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1585237948505</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Completed problem2.">
+      <created>1585305440393</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1585305440393</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Completed Student class.">
+      <created>1585305914507</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1585305914507</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Removed problem3 Student class and completed problem5 Student class.">
+      <created>1585306134396</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1585306134396</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Completed Node class.">
+      <created>1585306589491</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585306589491</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added enQueue method in MyPriorityQueue class.">
+      <created>1585307840245</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1585307840245</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added deQueue method in MyPriorityQueue class.">
+      <created>1585308063470</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1585308063470</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Completed problem3.">
+      <created>1585308758909</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1585308758909</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added node class.">
+      <created>1585311583047</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1585311583047</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added enQueue method.">
+      <created>1585311901028</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1585311901028</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Updated enQueue and added deQueue method.">
+      <created>1585314182922</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585314182922</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Updated deQueue method.">
+      <created>1585314659769</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1585314659769</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Updated MyBinarySearchTree class.">
+      <created>1585318572415</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1585318572415</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Completed Problem4.">
+      <created>1585318599364</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1585318599364</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Updated Student class.">
+      <created>1585319015496</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1585319015496</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Completed node class.">
+      <created>1585319161796</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1585319161796</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added enQueue method.">
+      <created>1585320294249</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1585320294249</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Updated MyQueue class.">
+      <created>1585320391129</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1585320391129</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added deQueue method.">
+      <created>1585320704192</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1585320704192</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added removeZeroBacklogRecords method in MyCircularQueue class.">
+      <created>1585322708911</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1585322708911</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed defintion of TreeNode class." />
+    <MESSAGE value="Added insertion method in MyBinarySearchTree class." />
+    <MESSAGE value="Added algorithm to show left node and count node with no left node." />
+    <MESSAGE value="Added toString in TreeNode class." />
+    <MESSAGE value="Added show method in MyBinarySearchTree class." />
+    <MESSAGE value="Completed problem1." />
+    <MESSAGE value="Added post order traversal method in MyBinarySearchTree class." />
+    <MESSAGE value="Completed problem2." />
+    <MESSAGE value="Completed Student class." />
+    <MESSAGE value="Removed problem3 Student class and completed problem5 Student class." />
+    <MESSAGE value="Completed Node class." />
+    <MESSAGE value="Added enQueue method in MyPriorityQueue class." />
+    <MESSAGE value="Added deQueue method in MyPriorityQueue class." />
+    <MESSAGE value="Completed problem3." />
+    <MESSAGE value="Added node class." />
+    <MESSAGE value="Updated enQueue and added deQueue method." />
+    <MESSAGE value="Updated deQueue method." />
+    <MESSAGE value="Updated MyBinarySearchTree class." />
+    <MESSAGE value="Completed Problem4." />
+    <MESSAGE value="Updated Student class." />
+    <MESSAGE value="Completed node class." />
+    <MESSAGE value="Added enQueue method." />
+    <MESSAGE value="Updated MyQueue class." />
+    <MESSAGE value="Added deQueue method." />
+    <MESSAGE value="Added removeZeroBacklogRecords method in MyCircularQueue class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added removeZeroBacklogRecords method in MyCircularQueue class." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="533" y="208" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1585238155426">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="533" y="208" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1600.900@0.0.1600.900" timestamp="1585238155426" />
+    <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1585319268110">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1585319268110" />
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585324339364">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585324339364" />
+    <state width="573" height="740" key="GridCell.Tab.0.bottom" timestamp="1585324269606">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="573" height="740" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1585324269606" />
+    <state width="573" height="740" key="GridCell.Tab.0.center" timestamp="1585324269605">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="573" height="740" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1585324269605" />
+    <state width="573" height="740" key="GridCell.Tab.0.left" timestamp="1585324269604">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="573" height="740" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1585324269604" />
+    <state width="573" height="740" key="GridCell.Tab.0.right" timestamp="1585324269606">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="573" height="740" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1585324269606" />
+    <state x="458" y="175" width="674" height="557" key="RollbackChangesDialog" timestamp="1585234274126">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="458" y="175" width="674" height="557" key="RollbackChangesDialog/0.0.1600.900@0.0.1600.900" timestamp="1585234274126" />
+    <state x="395" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585314666602">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="395" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1585314666602" />
+    <state x="456" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1585305283042">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="456" y="277" key="com.intellij.ide.util.TipDialog/0.0.1600.900@0.0.1600.900" timestamp="1585305283042" />
+    <state x="533" y="216" width="524" height="475" key="extract.method.dialog" timestamp="1585238093186">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="533" y="216" width="524" height="475" key="extract.method.dialog/0.0.1600.900@0.0.1600.900" timestamp="1585238093186" />
+    <state x="463" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1585308126462">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="463" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1585308126462" />
+  </component>
+</project>
