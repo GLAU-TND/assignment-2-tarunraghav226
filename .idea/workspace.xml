@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1ac21c4b-36ae-41d6-b6e8-15cd28055a05" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem3/node/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/node/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem3/myqueue/MyPriorityQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585232723631</updated>
       <workItem from="1585232730191" duration="4436000" />
-      <workItem from="1585299030230" duration="1871000" />
+      <workItem from="1585299030230" duration="3045000" />
     </task>
     <task id="LOCAL-00001" summary="Completed defintion of TreeNode class.">
       <created>1585232828858</created>
@@ -182,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585306134396</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Completed Node class.">
+      <created>1585306589491</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1585306589491</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +206,8 @@
     <MESSAGE value="Completed problem2." />
     <MESSAGE value="Completed Student class." />
     <MESSAGE value="Removed problem3 Student class and completed problem5 Student class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed problem3 Student class and completed problem5 Student class." />
+    <MESSAGE value="Completed Node class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Node class." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -209,14 +217,14 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="533" y="208" width="524" height="491" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1600.900@0.0.1600.900" timestamp="1585238155426" />
-    <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1585306274930">
+    <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1585307161429">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1585306274930" />
-    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585306134240">
+    <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1585307161429" />
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585306589234">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585306134240" />
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585306589234" />
     <state width="1554" height="133" key="GridCell.Tab.0.bottom" timestamp="1585240160476">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
