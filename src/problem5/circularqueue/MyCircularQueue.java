@@ -42,6 +42,17 @@ public class MyCircularQueue {
         }
     }
 
+    public void traverseQueue() {
+        Node temp = getFront();
+
+        while (true) {
+            System.out.println(temp.getStudent());
+            temp = temp.getNext();
+            if (temp == getFront())
+                break;
+        }
+    }
+
     public Node deQueue() {
         Node temp;
         if (getFront() == null) {
@@ -64,11 +75,12 @@ public class MyCircularQueue {
         while (true) {
             if (ahead.getStudent().getBackLogCounter() == 0) {
                 System.out.println("Removed data --> ");
-                System.out.println(ahead);
+                System.out.println(ahead.getStudent());
                 if (ahead == getFront()) {
                     before.setNext(ahead.getNext());
                     setFront(getFront().getNext());
                     ahead = ahead.getNext();
+                    continue;
                 } else if (ahead == getRear()) {
                     before.setNext(ahead.getNext());
                     setRear(before);
