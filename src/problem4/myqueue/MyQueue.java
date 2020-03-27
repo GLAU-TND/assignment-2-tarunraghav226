@@ -41,13 +41,18 @@ public class MyQueue {
     }
 
     public Node deQueue() {
+        Node temp;
         if (getFront() == null) {
             System.out.println("No elements");
             return null;
+        } else if (getFront().getNext() == null) {
+            temp = getFront();
+            setFront(null);
+            setRear(null);
         } else {
-            Node temp = getFront();
+            temp = getFront();
             setFront(getFront().getNext());
-            return temp;
         }
+        return temp;
     }
 }

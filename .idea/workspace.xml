@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1ac21c4b-36ae-41d6-b6e8-15cd28055a05" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem4/myqueue/MyQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585232723631</updated>
       <workItem from="1585232730191" duration="4436000" />
-      <workItem from="1585299030230" duration="5707000" />
+      <workItem from="1585299030230" duration="6215000" />
     </task>
     <task id="LOCAL-00001" summary="Completed defintion of TreeNode class.">
       <created>1585232828858</created>
@@ -238,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585311901028</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Updated enQueue and added deQueue method.">
+      <created>1585314182922</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585314182922</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,7 +267,8 @@
     <MESSAGE value="Completed problem3." />
     <MESSAGE value="Added node class." />
     <MESSAGE value="Added enQueue method." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added enQueue method." />
+    <MESSAGE value="Updated enQueue and added deQueue method." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated enQueue and added deQueue method." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -275,10 +282,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="608" y="137" width="374" height="633" key="#com.intellij.ide.util.MemberChooser/0.0.1600.900@0.0.1600.900" timestamp="1585311635921" />
-    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585311900865">
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2" timestamp="1585314181523">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585311900865" />
+    <state x="346" y="86" width="1022" height="814" key="CommitChangelistDialog2/0.0.1600.900@0.0.1600.900" timestamp="1585314181523" />
     <state width="1554" height="381" key="GridCell.Tab.0.bottom" timestamp="1585311466750">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
@@ -299,10 +306,10 @@
       <screen x="0" y="0" width="1600" height="900" />
     </state>
     <state x="458" y="175" width="674" height="557" key="RollbackChangesDialog/0.0.1600.900@0.0.1600.900" timestamp="1585234274126" />
-    <state x="395" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585234825470">
+    <state x="395" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1585314443148">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
-    <state x="395" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1585234825470" />
+    <state x="395" y="186" width="800" height="535" key="Vcs.Push.Dialog.v2/0.0.1600.900@0.0.1600.900" timestamp="1585314443148" />
     <state x="456" y="277" key="com.intellij.ide.util.TipDialog" timestamp="1585305283042">
       <screen x="0" y="0" width="1600" height="900" />
     </state>
